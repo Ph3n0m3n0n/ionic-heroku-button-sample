@@ -1,8 +1,8 @@
 {
-  "name": "ionic-heroku",
+  "name": "ionic-heroku-button-sample",
   "description": "Ionic Node.js Heroku app",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "express": "~4.4.3"
   }
