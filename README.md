@@ -9,7 +9,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 git clone https://github.com/Ph3n0m3n0n/ionic-heroku-button-sample.git
-cd ionic-heroku-button
+cd ionic-heroku-button-sample
 npm install
 npm start
 ```
