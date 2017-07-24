@@ -8,7 +8,7 @@ A one-click Ionic app template for Heroku
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-git clone git@github.com:driftyco/ionic-heroku-button.git # or clone your own fork
+git clone https://github.com/Ph3n0m3n0n/ionic-heroku-button-sample.git
 cd ionic-heroku-button
 npm install
 npm start
@@ -19,7 +19,7 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 ## Deploying to Heroku
 
 ```
-heroku create
+heroku create [name you want your app to be (ex. heroku create sampleapp)]
 git push heroku master
 heroku open
 ```
